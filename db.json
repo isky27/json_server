@@ -1,33 +1,25 @@
 {
     "cars": [
-    {
-      "id": 1,
-      "brand": "Tata",
-			"type":"Manual",
-      "year": 2019,
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
-    },
-    {
-      "id": 2,
-      "brand": "Tata",
-			"type":"AMT",
-      "year": 2017,
-      "kms": 8000,
-      "Description": "Tata Nexon with all original documents",
-      "Price": 800000
+    {"id": "2023-01-05T06:53:28.681Z",
+"brand": "Tata Moters",
+"type": "Mannual",
+"year": "2015",
+"kms": "87587",
+"Description": "Good condition ",
+"Price": "545445",
+"Image": "https://imgd.aeplcdn.com/0x0/n/cw/ec/41645/tata-nexon-right-front-three-quarter3.jpeg"
     }
   ],
     "wishlisted_cars": [
     {
-      "id": 1,
-      "brand": "Tata",
-      "year": 2019,
-			"type":"Manual",
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
+ "id": "2023-01-05T06:53:28.681Z",
+"brand": "Tata Moters",
+"type": "Mannual",
+"year": "2015",
+"kms": "87587",
+"Description": "Good condition ",
+"Price": "545445",
+"Image": "https://imgd.aeplcdn.com/0x0/n/cw/ec/41645/tata-nexon-right-front-three-quarter3.jpeg"
     }
   ]
 }
